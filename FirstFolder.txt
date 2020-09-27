@@ -4,5 +4,4 @@ Apply some edits and push again
 Add some editing to be tracked in master branch and not exist in Notes branch
 
 Add another editing
-
 apply some editis to apply concept of pull request
